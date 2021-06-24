@@ -9,7 +9,7 @@ Site published at: https://1evana.github.io/1-intro/
 
 ## Project objectives
 
--Create simple HTML page
+ - Create simple HTML page
 
 
 ## Authors
